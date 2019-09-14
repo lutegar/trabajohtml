@@ -1,0 +1,26 @@
+#titulo{
+	text-align: center;
+	background: #000000;
+	color: aliceblue
+	
+}
+
+main{
+	
+	text-align: center;
+}
+
+p{
+	
+	font-size: 60px;
+}
+
+footer{
+	background: #000000;
+	color: aliceblue;
+	font-family:"brush-script-std" ;
+	
+ 	text-align: center;
+	
+	
+}
